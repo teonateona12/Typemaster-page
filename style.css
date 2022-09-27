@@ -1,5 +1,6 @@
 body {
   font-family: "Barlow", sans-serif;
+  overflow-x: hidden;
 }
 .main {
   padding: 27px;
